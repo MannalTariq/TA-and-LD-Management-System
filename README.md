@@ -37,4 +37,4 @@ Data is normalized up to 3NF for efficiency.
 - **Instructor**: Can add, update, or delete tasks assigned to TAs and LDs.
 - **TAs/LDs**: Can view assigned tasks, mark them as completed, and check their attendance and salary details.
 
-**For detailed guidance, please refer to the project guide [Guide.pdf](Guide.pdf).**
+
